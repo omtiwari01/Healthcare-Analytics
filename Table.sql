@@ -1,0 +1,2 @@
+USE HEALTHCARE;
+SELECT * FROM h_care;
